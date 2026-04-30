@@ -1,0 +1,41 @@
+# Core data handling
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Time series analysis & statistics
+statsmodels
+scipy
+
+# Machine learning
+scikit-learn
+
+# Time series specific libraries
+pmdarima
+tsfresh
+sktime
+
+# Deep learning (optional but useful)
+# tensorflow
+# keras
+# torch
+
+# Date & time utilities
+python-dateutil
+pytz
+
+# Jupyter / experimentation
+jupyter
+notebook
+
+# Performance & utilities
+tqdm
+joblib
+
+
+#gdrive load
+gdown
